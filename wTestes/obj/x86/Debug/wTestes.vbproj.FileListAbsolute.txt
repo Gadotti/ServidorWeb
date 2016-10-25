@@ -1,0 +1,13 @@
+E:\Sistemas\Servidor Web\ServidorWeb\wTestes\bin\Debug\wTestes.exe
+E:\Sistemas\Servidor Web\ServidorWeb\wTestes\bin\Debug\wTestes.pdb
+E:\Sistemas\Servidor Web\ServidorWeb\wTestes\bin\Debug\wTestes.xml
+E:\Sistemas\Servidor Web\ServidorWeb\wTestes\bin\Debug\Comum.dll
+E:\Sistemas\Servidor Web\ServidorWeb\wTestes\bin\Debug\Comum.pdb
+E:\Sistemas\Servidor Web\ServidorWeb\wTestes\bin\Debug\Comum.xml
+E:\Sistemas\Servidor Web\ServidorWeb\wTestes\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Sistemas\Servidor Web\ServidorWeb\wTestes\obj\x86\Debug\wTestes.Resources.resources
+E:\Sistemas\Servidor Web\ServidorWeb\wTestes\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\Sistemas\Servidor Web\ServidorWeb\wTestes\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\Sistemas\Servidor Web\ServidorWeb\wTestes\obj\x86\Debug\wTestes.exe
+E:\Sistemas\Servidor Web\ServidorWeb\wTestes\obj\x86\Debug\wTestes.xml
+E:\Sistemas\Servidor Web\ServidorWeb\wTestes\obj\x86\Debug\wTestes.pdb

@@ -1,0 +1,10 @@
+E:\Sistemas\Servidor Web\ServidorWeb\Comum\bin\Release\Comum.dll
+E:\Sistemas\Servidor Web\ServidorWeb\Comum\bin\Release\Comum.pdb
+E:\Sistemas\Servidor Web\ServidorWeb\Comum\bin\Release\Comum.xml
+E:\Sistemas\Servidor Web\ServidorWeb\Comum\obj\Release\ResolveAssemblyReference.cache
+E:\Sistemas\Servidor Web\ServidorWeb\Comum\obj\Release\Comum.Resources.resources
+E:\Sistemas\Servidor Web\ServidorWeb\Comum\obj\Release\GenerateResource.read.1.tlog
+E:\Sistemas\Servidor Web\ServidorWeb\Comum\obj\Release\GenerateResource.write.1.tlog
+E:\Sistemas\Servidor Web\ServidorWeb\Comum\obj\Release\Comum.dll
+E:\Sistemas\Servidor Web\ServidorWeb\Comum\obj\Release\Comum.xml
+E:\Sistemas\Servidor Web\ServidorWeb\Comum\obj\Release\Comum.pdb

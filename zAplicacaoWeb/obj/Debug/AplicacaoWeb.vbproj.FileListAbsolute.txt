@@ -1,0 +1,13 @@
+E:\Sistemas\Servidor Web\ServidorWeb\zAplicacaoWeb\bin\Debug\AplicacaoWeb.dll
+E:\Sistemas\Servidor Web\ServidorWeb\zAplicacaoWeb\bin\Debug\AplicacaoWeb.pdb
+E:\Sistemas\Servidor Web\ServidorWeb\zAplicacaoWeb\bin\Debug\AplicacaoWeb.xml
+E:\Sistemas\Servidor Web\ServidorWeb\zAplicacaoWeb\bin\Debug\Comum.dll
+E:\Sistemas\Servidor Web\ServidorWeb\zAplicacaoWeb\bin\Debug\Comum.pdb
+E:\Sistemas\Servidor Web\ServidorWeb\zAplicacaoWeb\bin\Debug\Comum.xml
+E:\Sistemas\Servidor Web\ServidorWeb\zAplicacaoWeb\obj\Debug\ResolveAssemblyReference.cache
+E:\Sistemas\Servidor Web\ServidorWeb\zAplicacaoWeb\obj\Debug\AplicacaoWeb.Resources.resources
+E:\Sistemas\Servidor Web\ServidorWeb\zAplicacaoWeb\obj\Debug\GenerateResource.read.1.tlog
+E:\Sistemas\Servidor Web\ServidorWeb\zAplicacaoWeb\obj\Debug\GenerateResource.write.1.tlog
+E:\Sistemas\Servidor Web\ServidorWeb\zAplicacaoWeb\obj\Debug\AplicacaoWeb.dll
+E:\Sistemas\Servidor Web\ServidorWeb\zAplicacaoWeb\obj\Debug\AplicacaoWeb.xml
+E:\Sistemas\Servidor Web\ServidorWeb\zAplicacaoWeb\obj\Debug\AplicacaoWeb.pdb

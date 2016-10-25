@@ -1,0 +1,13 @@
+E:\Sistemas\Servidor Web\ServidorWeb\Requisicao\bin\Release\Requisicao.dll
+E:\Sistemas\Servidor Web\ServidorWeb\Requisicao\bin\Release\Requisicao.pdb
+E:\Sistemas\Servidor Web\ServidorWeb\Requisicao\bin\Release\Requisicao.xml
+E:\Sistemas\Servidor Web\ServidorWeb\Requisicao\bin\Release\Comum.dll
+E:\Sistemas\Servidor Web\ServidorWeb\Requisicao\bin\Release\Comum.pdb
+E:\Sistemas\Servidor Web\ServidorWeb\Requisicao\bin\Release\Comum.xml
+E:\Sistemas\Servidor Web\ServidorWeb\Requisicao\obj\Release\ResolveAssemblyReference.cache
+E:\Sistemas\Servidor Web\ServidorWeb\Requisicao\obj\Release\Requisicao.Resources.resources
+E:\Sistemas\Servidor Web\ServidorWeb\Requisicao\obj\Release\GenerateResource.read.1.tlog
+E:\Sistemas\Servidor Web\ServidorWeb\Requisicao\obj\Release\GenerateResource.write.1.tlog
+E:\Sistemas\Servidor Web\ServidorWeb\Requisicao\obj\Release\Requisicao.dll
+E:\Sistemas\Servidor Web\ServidorWeb\Requisicao\obj\Release\Requisicao.xml
+E:\Sistemas\Servidor Web\ServidorWeb\Requisicao\obj\Release\Requisicao.pdb

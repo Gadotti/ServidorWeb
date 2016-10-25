@@ -1,0 +1,16 @@
+E:\Sistemas\Servidor Web\ServidorWeb\Servidor\bin\Debug\AppTestes.exe
+E:\Sistemas\Servidor Web\ServidorWeb\Servidor\bin\Debug\AppTestes.pdb
+E:\Sistemas\Servidor Web\ServidorWeb\Servidor\bin\Debug\AppTestes.xml
+E:\Sistemas\Servidor Web\ServidorWeb\Servidor\bin\Debug\Comum.dll
+E:\Sistemas\Servidor Web\ServidorWeb\Servidor\bin\Debug\Comum.pdb
+E:\Sistemas\Servidor Web\ServidorWeb\Servidor\bin\Debug\Comum.xml
+E:\Sistemas\Servidor Web\ServidorWeb\Servidor\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Sistemas\Servidor Web\ServidorWeb\Servidor\obj\x86\Debug\AppTestes.Resources.resources
+E:\Sistemas\Servidor Web\ServidorWeb\Servidor\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\Sistemas\Servidor Web\ServidorWeb\Servidor\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\Sistemas\Servidor Web\ServidorWeb\Servidor\obj\x86\Debug\AppTestes.exe
+E:\Sistemas\Servidor Web\ServidorWeb\Servidor\obj\x86\Debug\AppTestes.xml
+E:\Sistemas\Servidor Web\ServidorWeb\Servidor\obj\x86\Debug\AppTestes.pdb
+D:\Sistemas\Servidor Web\ServidorWeb\Servidor\obj\x86\Debug\AppTestes.exe
+D:\Sistemas\Servidor Web\ServidorWeb\Servidor\obj\x86\Debug\AppTestes.xml
+D:\Sistemas\Servidor Web\ServidorWeb\Servidor\obj\x86\Debug\AppTestes.pdb

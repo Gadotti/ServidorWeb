@@ -1,0 +1,11 @@
+E:\Sistemas\Servidor Web\ServidorWeb\ValidaHtml\bin\Debug\ValidaHtml.exe
+E:\Sistemas\Servidor Web\ServidorWeb\ValidaHtml\bin\Debug\ValidaHtml.pdb
+E:\Sistemas\Servidor Web\ServidorWeb\ValidaHtml\bin\Debug\ValidaHtml.xml
+E:\Sistemas\Servidor Web\ServidorWeb\ValidaHtml\obj\Debug\ResolveAssemblyReference.cache
+E:\Sistemas\Servidor Web\ServidorWeb\ValidaHtml\obj\Debug\ValidaHtml.frmPrincipal.resources
+E:\Sistemas\Servidor Web\ServidorWeb\ValidaHtml\obj\Debug\ValidaHtml.Resources.resources
+E:\Sistemas\Servidor Web\ServidorWeb\ValidaHtml\obj\Debug\ResGen.read.1.tlog
+E:\Sistemas\Servidor Web\ServidorWeb\ValidaHtml\obj\Debug\ResGen.write.1.tlog
+E:\Sistemas\Servidor Web\ServidorWeb\ValidaHtml\obj\Debug\ValidaHtml.exe
+E:\Sistemas\Servidor Web\ServidorWeb\ValidaHtml\obj\Debug\ValidaHtml.xml
+E:\Sistemas\Servidor Web\ServidorWeb\ValidaHtml\obj\Debug\ValidaHtml.pdb
